@@ -1,0 +1,27 @@
+{
+  "name": "girls-frontline-desktop-pet",
+  "main": "src/main.js",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "build-arm": "electron-builder --arm64"
+  },
+  "build": {
+    "win": {
+      "icon": "src/icons/favicon.png"
+    },
+    "mac": {
+      "icon": "src/icons/favicon.png"
+    },
+    "linux": {
+      "icon": "src/icons/favicon.png"
+    }
+  },
+  "description": "",
+  "devDependencies": {
+    "electron": "34.0.0",
+    "electron-builder": "^25.1.8"
+  }
+}
