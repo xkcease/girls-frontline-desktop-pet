@@ -1,6 +1,6 @@
 ## 前言
 感谢前人在少前的贡献: cullus, BrightSu
-> https://github.com/cullus/gfSpinePiXi?tab=readme-ov-file
+> https://github.com/cullus/gfSpinePiXi?tab=readme-ov-file  
 > https://projects.brightsu.cn/GflChibiDesktop/index
 
 ## 项目介绍
